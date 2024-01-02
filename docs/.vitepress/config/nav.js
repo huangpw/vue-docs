@@ -47,20 +47,15 @@ module.exports = [
         link: "/pc/component/",
         activeMatch: "/pc/component/",
       },
-      {
-        text: "手写动画",
-        link: "/pc/animate/",
-        activeMatch: "/pc/animate/",
-      },
-      {
-        text: "实战笔记",
-        link: "/pc/note/",
-        activeMatch: "/pc/note/",
-      },
+      // {
+      //   text: "手写动画",
+      //   link: "/pc/animate/",
+      //   activeMatch: "/pc/animate/",
+      // },
     ],
   },
   {
-    text: "📱移动端",
+    text: "📱 移动端",
     items: [
       { text: "🌻UI库", link: "/mobile/ui/", activeMatch: "/mobile/ui/" },
       {
@@ -81,7 +76,7 @@ module.exports = [
     ],
   },
   {
-    text: "📳小程序端",
+    text: "📳 小程序端",
     items: [
       { text: "🌻UI库", link: "/wxapp/ui/", activeMatch: "/wxapp/ui/" },
       {
@@ -98,7 +93,7 @@ module.exports = [
     ],
   },
   {
-    text: "🌰项目实战",
+    text: "🖱️ 项目实战",
     items: [
       { text: "🍆笔记", link: "/project/note/", activeMatch: "/project/note/" },
       {
@@ -135,7 +130,7 @@ module.exports = [
     ],
   },
   {
-    text: "🍦常用库",
+    text: "💡 常用库",
     items: [
       {
         text: "🍧源码网站",
