@@ -12,6 +12,8 @@ module.exports = {
         { text: "编辑器", link: "/pc/ui/editor" },
         { text: "文件预览", link: "/pc/ui/file-preview" },
         { text: "滚动Scroll", link: "/pc/ui/scroll" },
+        { text: "进度条", link: "/pc/ui/progress" },
+        { text: "基础组件", link: "/pc/ui/base" },
       ],
     },
     {
@@ -19,7 +21,8 @@ module.exports = {
       collapsed: false,
       items: [
         { text: "Vue2 UI", link: "/pc/ui/vue2" },
-        { text: "表格", link: "/pc/ui/table" },
+        { text: "表格", link: "/pc/ui/tablev2" },
+        { text: "图表", link: "/pc/ui/chartv2" },
       ],
     },
   ],
