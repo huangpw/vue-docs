@@ -57,21 +57,26 @@ module.exports = [
   {
     text: "📱 移动端",
     items: [
-      { text: "🌻UI库", link: "/mobile/ui/", activeMatch: "/mobile/ui/" },
+      { text: "组件库", link: "/mobile/ui/", activeMatch: "/mobile/ui/" },
       {
-        text: "🌞开源项目",
+        text: "开源项目",
         link: "/mobile/project/",
         activeMatch: "/mobile/project/",
       },
       {
-        text: "🐞代码片段",
+        text: "代码片段",
         link: "/mobile/code/",
         activeMatch: "/mobile/code/",
       },
       {
-        text: "🦀手写组件",
+        text: "手写组件",
         link: "/mobile/component/",
         activeMatch: "/mobile/component/",
+      },
+      {
+        text: "鸿蒙原生",
+        link: "/mobile/harmony/",
+        activeMatch: "/mobile/harmony/",
       },
     ],
   },
@@ -146,6 +151,11 @@ module.exports = [
         text: "🍩开发软件",
         link: "/use/software/",
         activeMatch: "/use/software/",
+      },
+      {
+        text: "实用插件",
+        link: "/use/practical-plug/",
+        activeMatch: "/use/practical-plug/",
       },
       {
         text: "🍪在线工具",

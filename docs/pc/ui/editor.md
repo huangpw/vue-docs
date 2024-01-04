@@ -32,6 +32,7 @@
 - 默认语言：English
 - 官方文档：https://quilljs.com/
 - GitHub：https://github.com/quilljs/quill
+- 代码实战：https://blog.csdn.net/qq_44091061/article/details/122453951
 
 ## Ckeditor5-vue
 

@@ -18,7 +18,7 @@ Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 �
 
 ## BootstrapVue
 
-使用**BootstrapVue，**您可以构建响应式、 移动优先和ARIA可访问的Web项目 **Vue.js**和世界上最受欢迎的 前端CSS库- **Bootstrap v4**。
+使用BootstrapVue，您可以构建响应式、 移动优先和ARIA可访问的Web项目 Vue.js和世界上最受欢迎的 前端CSS库- Bootstrap v4。
 
 - 默认语言：简体中文
 - 官方文档：https://bootstrap-vue.org/
