@@ -2,7 +2,7 @@ module.exports = {
     // 电脑端-组件库
     "/pc/ui/": [
         {
-            text: "Vue3 组件库",
+            text: "Vue3组件库",
             collapsed: false,
             items: [
                 { text: "Vue3 UI", link: "/pc/ui/" },
@@ -18,7 +18,7 @@ module.exports = {
             ],
         },
         {
-            text: "Vue2 组件库",
+            text: "Vue2组件库",
             collapsed: false,
             items: [
                 { text: "Vue2 UI", link: "/pc/ui/vue2" },
@@ -30,7 +30,7 @@ module.exports = {
     // 电脑端-开源项目
     "/pc/project/": [
         {
-            text: "Vue3 项目集",
+            text: "Vue3项目集",
             collapsed: false,
             items: [
                 { text: "Vue3 开源项目", link: "/pc/project/" },
@@ -39,7 +39,7 @@ module.exports = {
             ],
         },
         {
-            text: "Vue2 组件库",
+            text: "Vue2组件库",
             collapsed: false,
             items: [
                 { text: "Vue2 开源项目", link: "/pc/project/vue2" },
@@ -72,7 +72,7 @@ module.exports = {
     ],
     // 移动端-组件库
     "/mobile/ui/": [{
-        text: "Vue3 组件库",
+        text: "Vue3组件库",
         collapsed: false,
         items: [
             { text: "Vue3 UI", link: "/mobile/ui/" },
@@ -84,17 +84,26 @@ module.exports = {
             // { text: "滚动Scroll", link: "/pc/ui/scroll" },
             // { text: "进度条", link: "/pc/ui/progress" },
             // { text: "基础组件", link: "/pc/ui/base" },
-        ],
-    },
-    {
-        text: "Vue2 组件库",
-        collapsed: false,
-        items: [
-            { text: "Vue2 UI", link: "/mobile/ui/vue2" },
-            // { text: "表格", link: "/pc/ui/tablev2" },
-            // { text: "图表", link: "/pc/ui/chartv2" },
-        ],
-    }
+            ],
+        },
+        {
+            text: "Vue2组件库",
+            collapsed: false,
+            items: [
+                { text: "Vue2 UI", link: "/mobile/ui/vue2" },
+                // { text: "表格", link: "/pc/ui/tablev2" },
+                // { text: "图表", link: "/pc/ui/chartv2" },
+            ],
+        },
+        {
+            text: "CSS组件库",
+            collapsed: false,
+            items: [
+                { text: "CSS UI", link: "/mobile/ui/cssui" },
+                // { text: "表格", link: "/pc/ui/tablev2" },
+                // { text: "图表", link: "/pc/ui/chartv2" },
+            ],
+        }
     ],
     // 常用库-开发软件
     "/use/software/": [

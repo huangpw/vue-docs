@@ -1,4 +1,4 @@
-# 电脑端 / Vue2 表格组件
+# 电脑端 / Vue2表格组件
 
 ## vue-easytable
 

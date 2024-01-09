@@ -83,7 +83,7 @@ module.exports = [
   {
     text: "📳 小程序端",
     items: [
-      { text: "🌻UI库", link: "/wxapp/ui/", activeMatch: "/wxapp/ui/" },
+      { text: "组件库", link: "/wxapp/ui/", activeMatch: "/wxapp/ui/" },
       {
         text: "🌞开源项目",
         link: "/wxapp/project/",

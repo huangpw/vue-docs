@@ -1,12 +1,16 @@
-# 电脑端 / Vue3 滚动Scroll组件
+# 电脑端 / Vue3滚动Scroll组件
 
 ## vue3-seamless-scroll 🔥
 
 Vue3.0 无缝滚动组件，支持Vite2.0，支持服务端打包。
 
 - 默认语言：简体中文
-- 官方文档：https://gitcode.com/mirrors/xfy520/vue3-seamless-scroll/overview
+- 官方文档：https://doc.wssio.com/opensource/vue3-seamless-scroll/
 - 代码实现：https://blog.csdn.net/weixin_44255044/article/details/122297653
+
+- Vue2版本：https://chenxuan0000.github.io/vue-seamless-scroll/zh/
+
+
 
 ## vue3-infinite-list 🔥
 
